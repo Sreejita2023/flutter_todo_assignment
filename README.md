@@ -38,9 +38,20 @@ flutter pub get
 # 3. (Optional) Enable web support
 flutter config --enable-web
 
-### Repository used for deployment
-[https://github.com/Sreejita2023/flutter_todo_assignment_webreinvent](https://github.com/Sreejita2023/flutter_todo_assignment_webreinvent)
+## 🔗 Repositories
 
-### Deployed link
-[https://fabulous-maamoul-4e51a0.netlify.app/](https://fabulous-maamoul-4e51a0.netlify.app/)
+| Purpose                  | Repository URL                                                                 |
+|--------------------------|--------------------------------------------------------------------------------|
+| Source Code & Deployment | https://github.com/Sreejita2023/flutter_todo_assignment_webreinvent             |
+
+
+---
+
+## 🌐 Live Demo
+
+The app is deployed on Netlify and can be accessed here:
+
+**https://fabulous-maamoul-4e51a0.netlify.app/**
+
+---
 
