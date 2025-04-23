@@ -29,7 +29,7 @@ These instructions will help you get a copy of the project up and running on you
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/flutter_todo_app.git
+git clone https://github.com/Sreejita2023/flutter_todo_assignment
 cd flutter_todo_app
 
 # 2. Install dependencies
