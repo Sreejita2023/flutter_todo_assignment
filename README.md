@@ -1,16 +1,39 @@
-# flutter_todo_app
+# Flutter To-Do List App
 
-A new Flutter project.
+[![Flutter CI](https://github.com/<your-username>/flutter_todo_app/actions/workflows/flutter-ci.yml/badge.svg)](https://github.com/<your-username>/flutter_todo_app/actions/workflows/flutter-ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Assignment Description
 
-A few resources to get you started if this is your first Flutter project:
+Create a simple Flutter app for managing a to-do list within 15 minutes. The app features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Add Task**: Enter a title and tap the “+” button.  
+- **List View**: Scrollable list of tasks with titles and checkboxes.  
+- **Complete Task**: Tap a checkbox to mark a task complete/incomplete.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+
+These instructions will help you get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) (stable channel)  
+- [Git](https://git-scm.com/)  
+- VS Code or Android Studio with Flutter & Dart plugins
+
+### Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/<your-username>/flutter_todo_app.git
+cd flutter_todo_app
+
+# 2. Install dependencies
+flutter pub get
+
+# 3. (Optional) Enable web support
+flutter config --enable-web
